@@ -1,6 +1,6 @@
 {
     "title": "4D Fun Blog",
-    "description": "Ghosts default theme for Vuepress",
+    "description": "The Future of Content Distribution",
     "base": "/",
     "themeConfig": {
         "cover": "/images/cover.jpg",
